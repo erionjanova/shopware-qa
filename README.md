@@ -1,8 +1,10 @@
-# Shopware QA
+# 🧪 Shopware QA
 
 End-to-end tests for a [Shopware 6](https://www.shopware.com/) storefront, written with [Playwright](https://playwright.dev/).
 
 The tests run against a public Shopware 6 demo shop and cover the main path a customer takes: finding a product, adding it to the cart and reaching the checkout.
+
+<img src="https://skillicons.dev/icons?i=js,nodejs" alt="JavaScript, Node.js" /> &nbsp;<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="48" />
 
 ## What is tested
 
@@ -49,10 +51,6 @@ Run a single browser or watch the tests in a visible browser window:
 npx playwright test --project=chromium
 npx playwright test --headed
 ```
-
-## Tech stack
-
-Playwright · JavaScript · Node.js
 
 ## What I'd add next
 
