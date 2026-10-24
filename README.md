@@ -1,4 +1,4 @@
-# 🧪 Shopware QA
+# Shopware QA
 
 End-to-end tests for a [Shopware 6](https://www.shopware.com/) storefront, written with [Playwright](https://playwright.dev/).
 
